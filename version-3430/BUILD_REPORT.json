@@ -1,0 +1,19 @@
+{
+    "parsed_movies": 2000,
+    "movie_detail_pages": 2000,
+    "html_pages_total": 2015,
+    "category_pages": 8,
+    "category_coverage": 2000,
+    "jpg_files_in_package": 0,
+    "html_missing_baidu_script": [],
+    "category_counts": {
+        "动作冒险": 250,
+        "悬疑惊悚": 250,
+        "纪录动画": 251,
+        "欧美大片": 250,
+        "日韩精选": 247,
+        "爱情喜剧": 251,
+        "国产港台": 251,
+        "科幻奇幻": 250
+    }
+}
